@@ -1,4 +1,4 @@
-# Danielle Caricati
+<h1 align="center">Danielle Caricati</h1>
 <h3 align="center">
 Software Engineering Student • Full Stack Developer • Future AI Engineer
 </h3>
