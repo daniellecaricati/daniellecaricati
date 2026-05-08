@@ -1,6 +1,6 @@
 # Danielle Caricati
 <h3 align="center">
-Software Engineering Student • Future AI Engineer • Full Stack Developer
+Software Engineering Student • Full Stack Developer • Future AI Engineer
 </h3>
 
 <p align="center">
